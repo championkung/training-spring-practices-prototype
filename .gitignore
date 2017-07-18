@@ -1,1 +1,11 @@
 **/**.iml
+/.idea/workspace.xml
+.idea/
+01-why-spring/01-why-spring.iml
+01-why-spring/01-without-di/01-without-di.iml
+01-why-spring/02-with-spring-di/02-with-spring-di.iml
+02-spring-core/01-di-xml-config/di-xml-config.iml
+02-spring-core/02-di-annotation-config/di-annotation-config.iml
+02-spring-core/02-spring-core.iml
+02-spring-core/03-di-java-config/03-di-java-config.iml
+training-spring-prototype.iml

@@ -13,7 +13,11 @@
         <property name="anotherBean" ref="anotherBean"></property>
 
     </bean>
+    <bean id="greetingSetter8" class="com.training.GreetingSetter">
+        <property name="text" value="I overide text"></property>
+        <property name="anotherBean" ref="anotherBean"></property>
 
+    </bean>
 
     <bean id="anotherBean" class="com.training.AnotherBean"></bean>
 

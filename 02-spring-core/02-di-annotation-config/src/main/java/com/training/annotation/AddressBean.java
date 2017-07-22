@@ -12,7 +12,7 @@ public class AddressBean {
 
     private String street;
     private String district;
-    private Spring province;
+    private String province;
 
 
     public String getDistrict() {
@@ -23,11 +23,11 @@ public class AddressBean {
         this.district = district;
     }
 
-    public Spring getProvince() {
+    public String getProvince() {
         return province;
     }
 
-    public void setProvince(Spring province) {
+    public void setProvince(String province) {
         this.province = province;
     }
 
